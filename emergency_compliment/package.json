@@ -2,10 +2,10 @@
   "name": "emergency_compliment",
   "version": "1.0.0",
   "description": "",
-  "main": "moocow.js",
+  "main": "default.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "BSD"
+  "license": "GPLv2"
 }
